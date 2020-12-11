@@ -28,7 +28,7 @@ twitter_username: pof
 github_username:  poliva
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
