@@ -28,11 +28,11 @@ The WEP keys are cracked using a dictionary attack, generated automatically usin
 
 The patch is available [here](http://x90.es/xw), and it's agains revision r67 (latest at the moment of writing this). You can see it in action in these youtube videos I have uploaded:  
 <!--more-->  
-<iframe title="YouTube video player" width="960" height="750" src="http://www.youtube.com/embed/_eZxcRGB8jc?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="960" height="750" src="https://www.youtube.com/embed/_eZxcRGB8jc?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 
-[Cracking WPA using patched wifite r67](http://www.youtube.com/watch_popup?v=_eZxcRGB8jc&vq=hd720): Shows how to crack 9 WPA networks in less than 30 seconds.
+[Cracking WPA using patched wifite r67](https://www.youtube.com/watch_popup?v=_eZxcRGB8jc&vq=hd720): Shows how to crack 9 WPA networks in less than 30 seconds.
 
-<iframe title="YouTube video player" width="960" height="750" src="http://www.youtube.com/embed/Rxh9XYFHvDI?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="960" height="750" src="https://www.youtube.com/embed/Rxh9XYFHvDI?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 
-[Cracking WEP using patched wifite r67](http://www.youtube.com/watch_popup?v=Rxh9XYFHvDI&vq=hd720): Shows how to crack a WEP network with clients in 11 seconds, and a WEP network without any clients connected in 1 min 11 seconds.
+[Cracking WEP using patched wifite r67](https://www.youtube.com/watch_popup?v=Rxh9XYFHvDI&vq=hd720): Shows how to crack a WEP network with clients in 11 seconds, and a WEP network without any clients connected in 1 min 11 seconds.
 
