@@ -43,7 +43,7 @@ Basically what my cheat does is recharge health when both players are idle (with
 If the last hit (or throw) does less damage than 0xf, the energy will be recharged before the round actually really ends. If the last hit (or throw) does more damage than 0xf the round will "end", but we disable the K.O. slowdown and recharge the health really quick so the round continues and no noticeable slowdown happens.
 
 Here you can see the training mode in action:  
-<iframe title="YouTube video player" width="960" height="750" src="http://www.youtube.com/embed/zmpvOeM1CCU?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="960" height="750" src="https://www.youtube.com/embed/zmpvOeM1CCU?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 
 Another thing that the Dreamcast training mode has is that you can force the PL2 dummy to do a certain action, for example always crouch or jump. This is useful for practicing some combos and can be done with macros using mame-rr, but [Ange Albertini](https://twitter.com/angealbertini) suggested me to do it on a mame cheat, so I thought _challenge accepted_, and I also wrote a complementary cheat to control the dummy's repetitive movement... so it's even better than the dreamcast training mode now :)
 
