@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/pof
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pof.eslack.org
+  * I am pof (https://keybase.io/pof) on keybase.
+  * I have a public key with fingerprint 2925 C2CC 176B 023A B25C  D9D7 01C7 AD9A 123D 38CF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0111aec74b55ed1da51a6b2aaddd92926f36afe35a984cb45933ccc486f1e81135ee0a",
+      "fingerprint": "2925c2cc176b023ab25cd9d701c7ad9a123d38cf",
+      "host": "keybase.io",
+      "key_id": "01c7ad9a123d38cf",
+      "kid": "01018965c57b27e3d4c58ed256ec2749d4cfaf1b7b47d35783b8eb3fc05f8ea1141b0a",
+      "uid": "fa030441d2cf88c1905dd12a2b193500",
+      "username": "pof"
+    },
+    "merkle_root": {
+      "ctime": 1629896594,
+      "hash_meta": "c86cddb54e55fd874b6b0fbcff07d375ff554c39370f16b6fa473760276041bf",
+      "seqno": 20634816
+    },
+    "revoke": {
+      "sig_ids": [
+        "db0ba845b0fb2be7ae12e617622503e37d34c28eb34fc28ab1a71785cadfcd740f"
+      ]
+    },
+    "service": {
+      "hostname": "pof.eslack.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1629896605,
+  "expire_in": 157680000,
+  "prev": "5c0350a8760c0de27f7c812eda194a7134941263bdc935c3cc6c0609ba369a3e",
+  "seqno": 47,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFlUwtsFFUU3V0rKU2MUn5SfjJShdqUeTPz5rOCLYhUPgG0NEULbN9vyrTbnWV3
+KTRrCaEW2toaQASiGPlIxQas8iltbEVIEBAsKG1hAUEh0lpMSFpNESP6pgGJcZLJ
+y33v3HPPPfe99Y894op3u0/sey9xin7WffoX7ELPpDdGBWzTEsEbFQpZ/8L8lIUj
+vkKLCl5BBAAgRjQFQ8gooAgCpGIJIUqpIRmSasoqMpkMkaErBCvQkGVCiKKrJmA6
+ADJkTERCqmBagXwWCoasQITT8kxIJEKApmJRkhHmITWoJgKiIWogIMlU1onJE5fa
+YSeDi8MozNIsm+/xwHdf3v/wD3SLQDdUSKCGJY3JVCFQZ1SCKiOSphg8NpEJsIYV
+jcpQ02WsMyybRISmzhAACsD9upf305lIlEVFAVQipq4TYIiQUiAhCQNDhqLoAMMs
+FEBFjKODtimUpgpFLFToZ76QbUccX0nEck6BKhmOMkPhvaHwUl8RiyCeRHSVUIqh
+wiA0qc4d59aYmJimyBVq0DQhVIhsyJpoAhWrJlI0WVNFif9crNN6mC0L2IJXElVZ
+0YHKJYRYsV3InOphK59bFha8uQLFIka6Ar9a7hSQMNMQAxJT+TAkCYoyk3lBhUiO
+IYrJV4QB0oCmQ4KoSaimiKawuNSpFyq2SD+9M6WH3aexsB+RwjQ7lM9lBUN2xCa2
+n58tjUSCYa9jTqQk6IBXMOy7T+PDVoDyW8IzilkobNkBbhZH/tc3VYSpAlsZtELM
+ZzkIqKm6yD+nDivmlJCIfCRI574QkTJJMzWi8/4oAobC+5AVQwGSKmNK+OwIv64q
+EVXRwEhWDSSzh0YqGteJ8jkndy+AIstDTChNqPTIcS53vGv0sHFxE5OPnRle6PHu
+XxS78OBlPepxnpUrYeAT/+4UP/63mflNVuvvif7s3JyYGWyrGpU57KQ1/I9x039q
+fvlK6kcTnj4QbfhiyeTcM2cGrui4Ys9PofFHK/bNWzXoZvfJAUJHxprUlqKyeo0t
+HpLrr5i5s/3orOcbm0a6rIKu+rllc+7sSMoev3VD78Y9swvupPQ07vTwC1IeqDiY
+tep85e341qHRjpKa3eDDpk27unrnJTdpvdHMXZ4l5uYLi2qkuswPBu7urN6ycPxE
+4rkXWFM5Qs3JGLYkrqrn6+uJ1xbufenWAv8q97bmcdFJPdvvffecr2/T65T8+MLV
+X6vvzBw6rezY1tCsuqRDc3aU3K1dsW6Mt+duZ/rhziMVm+TTnQU1KVZPWcfdBQPy
+bijS6uaTnrq8A77ZKZeNGXhZw7mnhqxeUDkjKN6+1ObG2367eKjlh+pbY+KPU/TW
+m3Fb+toHu5vaFmUP9Z/K3JxzbX5N0l9rd61P3jk1buul2KDmuqw/Z23fn5Luebbo
+UvBwg3t6LLnvjdptK+HxT1dvnxrLe7d777qum6PT104qn1Y+sjZvIjjx6idDSi9P
+97/zZNKR1qya7nOJ5ccP9mW0/IxORzX14wnrYl92HjqcVl/b+MqeFji56eyVjhEl
+IxMGi6Bh7Iv+9n29pVN7p3QL3oLGUa03XaeqTpWtiY0fkH017vpn77cHBn+fMTbv
+tby1G7Kun1cvbvw2O6FrQ0X125/fKKufm/8P
+=+FGj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pof
+
+==================================================================
